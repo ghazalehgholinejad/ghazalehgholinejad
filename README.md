@@ -1,10 +1,17 @@
 # Ghazaleh Gholinejad
 
-**AI Engineer · Computer Vision · 3D Vision**
+**AI Engineer · Large Language Models · RAG · AI Agents**
 
-I work on visual understanding and practical machine learning systems. I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Technology**, where my thesis focused on **neural implicit representations for large-scale scene reconstruction**.
+My current work focuses on **LLM-powered applications, retrieval-augmented generation (RAG), and tool-augmented AI agents**. I build question-answering and semantic search systems over organizational knowledge, and integrate language models with APIs, databases, and analytical tools.
 
-My research interests include neural rendering, representation learning, and robust perception for autonomous driving. My engineering experience also spans retrieval-augmented generation (RAG), time-series forecasting, and AI model deployment.
+I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Technology**. My research background is in **computer vision and 3D scene understanding**, with a thesis on neural implicit representations for large-scale scene reconstruction. My broader engineering experience includes time-series forecasting and AI model deployment.
+
+## Current focus: LLMs, RAG & agents
+
+- **RAG and semantic search:** document retrieval and LLM-based question answering over knowledge bases.
+- **Tool-augmented agents:** workflows that connect language models to SQL queries, forecasting models, and domain-specific services.
+- **LLM application engineering:** model integration, REST APIs, and backend services for practical AI applications.
+- **Applied ML:** energy-demand forecasting and data-driven operational analytics.
 
 [LinkedIn](https://www.linkedin.com/in/ghazaleh-gholinejad/) · [Browse all public projects](https://github.com/ghazalehgholinejad?tab=repositories&type=public)
 
@@ -31,7 +38,8 @@ My research interests include neural rendering, representation learning, and rob
 ## Background & interests
 
 - **3D perception:** neural scene representations, NeRF, multi-view geometry, and autonomous driving.
-- **Applied AI:** computer vision, RAG systems, and energy-demand forecasting.
+- **Language models:** LLM applications, retrieval-augmented generation, and agent workflows.
+- **Applied AI:** computer vision and energy-demand forecasting.
 - **Research experience:** graph and multi-view learning, including applications to biological data.
 - **Teaching:** teaching assistant experience in Machine Learning and 3D Computer Vision.
 
@@ -40,8 +48,9 @@ My research interests include neural rendering, representation learning, and rob
 | Area | Tools |
 | --- | --- |
 | Languages | Python, C++, Java, SQL |
+| LLMs & agents | Hugging Face, LangChain, LlamaIndex, OpenAI API, Azure OpenAI |
+| Retrieval & vector search | FAISS, ChromaDB, Milvus, Qdrant |
 | Machine learning & vision | PyTorch, TensorFlow, scikit-learn, OpenCV |
-| Language models & retrieval | Hugging Face, LangChain, LlamaIndex, FAISS |
 | Systems | FastAPI, Spring Boot, Docker, Git, Linux |
 
 ---
