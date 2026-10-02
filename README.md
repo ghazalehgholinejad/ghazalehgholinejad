@@ -17,6 +17,12 @@ I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Techno
 
 ## Selected projects
 
+### RAG & retrieval
+
+| Project | Focus | What to explore |
+| --- | --- | --- |
+| [Persian Retrieval Lab](https://github.com/ghazalehgholinejad/persian-retrieval-lab) | Persian retrieval for RAG | Compare raw and normalized BM25, evaluate passage retrieval, and export source-linked context. Includes a synthetic evaluation set and automated tests; no answer generation. |
+
 ### Computer vision tools
 
 | Project | Focus | What to explore |
