@@ -23,6 +23,12 @@ I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Techno
 | --- | --- | --- |
 | [Persian Retrieval Lab](https://github.com/ghazalehgholinejad/persian-retrieval-lab) | Persian retrieval for RAG | Compare raw and normalized BM25, evaluate passage retrieval, and export source-linked context. Includes a synthetic evaluation set and automated tests; no answer generation. |
 
+### AI agents & tool calling
+
+| Project | Focus | What to explore |
+| --- | --- | --- |
+| [LLM Tool Call Validator](https://github.com/ghazalehgholinejad/llm-tool-call-validator) | Validating proposed agent tool calls | Strict JSON parsing, allowlisted tools, JSON Schema argument checks, and structured errors. Includes synthetic examples and tests; no model inference or tool execution. |
+
 ### Computer vision tools
 
 | Project | Focus | What to explore |
