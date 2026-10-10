@@ -47,6 +47,10 @@ I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Techno
 | --- | --- | --- |
 | [Spiking Graph Neural Networks](https://github.com/ghazalehgholinejad/sgnn) | Structural damage detection | Graph-based sensor modeling and spiking neural networks for strain-signal analysis. |
 
+## Learning notes
+
+[AI Engineering Notes](https://github.com/ghazalehgholinejad/ai-engineering-notes) — Persian study notes on software communication, MCP, vector databases, Qdrant, and PostgreSQL with pgvector. Includes review questions, educational examples, and a reusable learning-note template.
+
 ## Background & interests
 
 - **3D perception:** neural scene representations, NeRF, multi-view geometry, and autonomous driving.
