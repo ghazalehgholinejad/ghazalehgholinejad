@@ -29,6 +29,12 @@ I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Techno
 | --- | --- | --- |
 | [LLM Tool Call Validator](https://github.com/ghazalehgholinejad/llm-tool-call-validator) | Validating proposed agent tool calls | Strict JSON parsing, allowlisted tools, JSON Schema argument checks, and structured errors. Includes synthetic examples and tests; no model inference or tool execution. |
 
+### Backend engineering
+
+| Project | Focus | What to explore |
+| --- | --- | --- |
+| [TalentFlow Python](https://github.com/ghazalehgholinejad/talentflow-python) | FastAPI workflow backend | Transactional SQLite, durable request IDs for safe retries, and human-reviewed workflow transitions. Includes automated tests and a Persian learning guide; scoring and external providers are mock implementations. |
+
 ### Computer vision tools
 
 | Project | Focus | What to explore |
