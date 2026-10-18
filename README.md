@@ -27,6 +27,7 @@ I hold an M.Sc. in Artificial Intelligence from **Amirkabir University of Techno
 
 | Project | Focus | What to explore |
 | --- | --- | --- |
+| [LLM Memory Lab](https://github.com/ghazalehgholinejad/llm-memory-lab) | Conversation history and context selection | Compare recency, compact excerpts, lexical retrieval and hybrid memory with SQLite persistence, source IDs and explicit character budgets. Offline synthetic demo and Persian guide; no model inference. |
 | [LLM Tool Call Validator](https://github.com/ghazalehgholinejad/llm-tool-call-validator) | Validating proposed agent tool calls | Strict JSON parsing, allowlisted tools, JSON Schema argument checks, and structured errors. Includes synthetic examples and tests; no model inference or tool execution. |
 
 ### Backend engineering
